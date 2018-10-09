@@ -1,0 +1,15 @@
+.DS_Store
+.env
+!.gitkeep
+**/build/*
+
+node_modules
+package-lock.json
+yarn.lock
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
